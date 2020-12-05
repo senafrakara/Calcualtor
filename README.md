@@ -1,2 +1,2 @@
-# Calcualtor
+# Calculator
  OOP Base Calculator
